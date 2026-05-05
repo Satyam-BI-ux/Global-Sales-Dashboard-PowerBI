@@ -35,5 +35,5 @@ Certain products are consistently generating losses and require attention
 A small group of top customers drives a significant portion of revenue
 
 7. Screenshots
-See what the dashboard look like: 
-Example:
+See what the dashboard look like: https://github.com/Satyam-BI-ux/Global-Sales-Dashboard-PowerBI/blob/main/Sales%20Dashboard.pbit
+Example: https://github.com/Satyam-BI-ux/Global-Sales-Dashboard-PowerBI/blob/main/Sales%20Dashboard%20Snapshot.png
